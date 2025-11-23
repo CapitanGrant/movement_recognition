@@ -32,7 +32,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/CapitanGrant/movement_recognition
 cd video-analysis-service
 ```
 
@@ -59,3 +59,4 @@ TEST_DB_URL="postgresql+asyncpg://postgres_user:postgres_password@localhost:5444
 ```bash
 docker-compose up --build
 ```
+
